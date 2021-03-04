@@ -2,7 +2,7 @@
 
 ![illustration gif](https://media.giphy.com/media/7IOgFtHAoFFGta00A2/giphy.gif)
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on polishing my knowledge of my current language skills.
 - 🌱 I’m currently learning object oriented programming languages like Java and Python
